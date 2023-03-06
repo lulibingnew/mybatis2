@@ -1,6 +1,10 @@
 add1
+<<<<<<< HEAD
 132
 3213
 main
 dev
 main1
+=======
+adsf
+>>>>>>> 692f0e0d333fce5e6acea7718beb1db05c5406df
